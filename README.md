@@ -1,6 +1,6 @@
 # AE-scripts  
 ## Grid with nulls
-Make a grid for placing content in it.  
+Make a grid with a random or regular distribution of rows/cells/cells to place content in it.
 
 ## [Paste animated letters](https://github.com/mrmrrr/paste-animated-letters)  
 When you have compositions for each letter and need to make them into words.  
