@@ -1,5 +1,5 @@
 # AE-scripts  
-## Grid with nulls
+## [Grid with nulls](https://github.com/mrmrrr/grid-with-nulls)
 Make a grid with a random or regular distribution of rows/cells/cells to place content in it.
 
 ## [Paste animated letters](https://github.com/mrmrrr/paste-animated-letters)  
