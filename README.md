@@ -3,7 +3,7 @@
 Make a grid with a random or regular distribution of rows/colls/cells to place content in it.
 
 ## [Paste animated letters](https://github.com/mrmrrr/paste-animated-letters)  
-When you have compositions for each letter and need to make them into words.  
+When you have compositions or other type of footage for each letter and need to make them into words.  
 No to manual placing and aligning!
 
 ## [Distrubuting keys on timeline](https://github.com/mrmrrr/distributing-keys)  
