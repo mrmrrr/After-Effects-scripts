@@ -1,4 +1,5 @@
-# AE-scripts  
+# After Effects scripts
+
 ## [Grid with nulls](https://github.com/mrmrrr/grid-with-nulls)
 Make a grid with a random or regular distribution of rows/colls/cells to place content in it.
 
